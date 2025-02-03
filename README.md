@@ -2,7 +2,7 @@
 
 **COMPANY** : CODETECH IT SOLUTIONS
 
-**NAME** :Swrali Deshmukh
+**NAME** :Swarali Deshmukh
 
 **INTERN ID** : CT08LAO
 
