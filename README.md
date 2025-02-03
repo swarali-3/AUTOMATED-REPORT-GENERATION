@@ -29,4 +29,4 @@ A section with the calculated statistics.
 4.Save the PDF:
 The PDF is saved as report.pdf in the current directory.
 
-**OUTPUT OF THE TASK** :
+**OUTPUT OF THE TASK** : [report.pdf](https://github.com/user-attachments/files/18643250/report.pdf)
